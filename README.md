@@ -10,9 +10,15 @@ GAME RULES:
  3. Escape the Warehouse when all monsters are defeated
 
 COMMANDS (press enter after typing command key to execute)
+
  'w,a,s,d': directional movement keys
+ 
  'i': check inventory 
+ 
  'p': pick up an item
+ 
  'l': drop an item
+ 
  'e': escape through the hatch
+ 
  'x': exit game
